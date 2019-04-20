@@ -1,0 +1,6 @@
+com/fyle/bank/BankBranchesApplication.class
+com/fyle/bank/service/BankService.class
+com/fyle/bank/controller/BankController.class
+com/fyle/bank/model/BankBranches.class
+com/fyle/bank/service/impl/BankServiceImpl.class
+com/fyle/bank/repository/BankBranchRepository.class
